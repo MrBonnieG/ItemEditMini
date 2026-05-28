@@ -1,6 +1,6 @@
-# ItemEdit
+# ItemEditMini
 
-**ItemEdit** is a simple and lightweight in-game item editor for changing item names and lore with full **MiniMessage support** and a **permission-based system**.
+**ItemEditMini** is a simple and lightweight in-game item editor for changing item names and lore with full **MiniMessage support** and a **permission-based system**.
 
 ---
 
