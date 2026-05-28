@@ -1,0 +1,27 @@
+messages:
+  system:
+    reload: "<green>Config reloaded!"
+    not-player: "<red>Only players can use this command!"
+    no-permissions: "<red>You don't have permission!"
+    no-args: "<red>Usage: /ie <name|lore>"
+    no-item: "<red>You must hold an item in your hand!"
+
+  usage:
+    name: "<red>Usage: /ie name <text|reset>"
+    lore-main: "<red>Usage: /ie lore <set|add|remove|reset>"
+    lore-set: "<red>Usage: /ie lore set <line> <text>"
+
+  error:
+    invalid-index: "<red>Invalid line index!"
+    invalid-number: "<red>You must enter a valid number!"
+    invalid-line: "<red>Line number must be greater than 0."
+    empty-text: "<red>You must enter text!"
+
+  success:
+    name-reset: "<green>Item name has been reset."
+    name-changed: "<green>Item name has been changed."
+
+    lore-changed: "<green>Lore line has been changed."
+    lore-added: "<green>Lore line has been added."
+    lore-removed: "<green>Lore line has been removed."
+    lore-reset: "<green>Lore has been reset."

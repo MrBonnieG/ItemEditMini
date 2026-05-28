@@ -1,0 +1,17 @@
+name: ItemEdit
+version: '1.0'
+main: org.mrbonnieg.itemedit.Main
+api-version: '1.19'
+load: STARTUP
+authors: [ MrBonnieG ]
+commands:
+  ie:
+    description: Item editor
+    usage: /ie
+    permission: itemedit.use
+
+permission:
+  itemedit.reload:
+    default: op
+  itemedit.use:
+    default: op
