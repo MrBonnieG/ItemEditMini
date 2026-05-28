@@ -11,7 +11,6 @@
 - 🎨 Full MiniMessage support (colors, gradients, formatting)
 - 🔐 Permission-based access control
 - ⚡ Lightweight and fast
-- 🔄 Config reload command
 - 🧩 Easy-to-use commands
 
 ---
